@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/pokestart/static/js/main.b9ee05be.chunk.js",
-    "main.js.map": "/pokestart/static/js/main.b9ee05be.chunk.js.map",
+    "main.js": "/pokestart/static/js/main.ba1c149e.chunk.js",
+    "main.js.map": "/pokestart/static/js/main.ba1c149e.chunk.js.map",
     "runtime-main.js": "/pokestart/static/js/runtime-main.a09c2271.js",
     "runtime-main.js.map": "/pokestart/static/js/runtime-main.a09c2271.js.map",
     "static/css/2.61b4cb56.chunk.css": "/pokestart/static/css/2.61b4cb56.chunk.css",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.a09c2271.js",
     "static/css/2.61b4cb56.chunk.css",
     "static/js/2.9b29fdc5.chunk.js",
-    "static/js/main.b9ee05be.chunk.js"
+    "static/js/main.ba1c149e.chunk.js"
   ]
 }
